@@ -1,0 +1,22 @@
+.navbar{
+    display: flex;
+    padding: 10px 20px;
+    background-color: white;
+    width: 100px;
+    justify-content: space-between;
+    align-items: center;
+    gap: 100px;
+}
+
+.navbar h1{
+    background-color: rgb(104, 104, 242);
+    color: white;
+    padding: 10px 20px;
+}
+
+.navbar .btn{
+    background-color: black;
+    padding: 5px;
+    color: white;
+
+}
